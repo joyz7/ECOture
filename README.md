@@ -1,4 +1,4 @@
-# ECOture - created for MetHacks2023!
+# ECOuture - created for MetHacks2023!
 
 ## 💡 Inspiration:
 We were inspired by a video highlighting the impact that fast fashion has on the environment. While watching this video, we realized that knowledge surrounding the environmental impact clothing is very inaccessible for consumers. We decided that we wanted to develop a online tool that would spread awareness of this issue and facilitate more eco-conscious purchasing decisions.
